@@ -29,3 +29,49 @@ To overcome these challenges, this project develops a centralized **Fleet Operat
 </td>
 </tr>
 </table>
+
+
+## 🎯 Objectives
+
+The primary objectives of this project are:
+
+- Design a normalized relational database to manage fleet operations efficiently.
+- Analyze operational data using advanced SQL queries, views, stored procedures, and functions.
+- Develop interactive Power BI dashboards to monitor key business metrics.
+- Evaluate vehicle performance, customer behavior, driver productivity, and route profitability.
+- Identify operational inefficiencies and major cost drivers.
+- Enable data-driven decision-making through actionable business insights.
+- Support business growth by improving operational efficiency and profitability.
+
+
+## ✨ Project Features
+
+- 📊 7 Interactive Power BI Dashboards
+- 🗄️ Relational Database with 9 Tables
+- 💻 30 Business-Oriented SQL Queries
+- ⚙️ Stored Procedures, Views & Functions
+- 📈 Advanced DAX Measures & KPIs
+- 🚗 Fleet, Customer, Driver & Financial Analytics
+- 💡 Actionable Business Insights & Recommendations
+
+
+## 🛠️ Technology Stack
+
+| Category | Technology |
+|----------|------------|
+| Database | MySQL |
+| Query Language | SQL |
+| Business Intelligence | Power BI |
+| Data Modeling | Star Schema |
+| Data Analysis | DAX |
+| Visualization | Power BI Visuals |
+| Documentation | Canva |
+| Version Control | Git & GitHub |
+
+## 🗄️ Database Design
+
+The Fleet Operations database is designed using a normalized relational model to efficiently manage operational data across multiple business entities. The database consists of interconnected tables representing customers, vehicles, drivers, trips, maintenance logs, fuel logs, trip expenses, and salaries.
+
+<p align="center">
+<img src="Assets/ER Diagram.png" width="900">
+</p>
